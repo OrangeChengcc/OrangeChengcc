@@ -4,7 +4,7 @@
 
 我关注 Web 开发，喜欢把想法做成可以实际使用的工具。
 
-[关于我](#about) &nbsp; · &nbsp; [我的项目](#projects) &nbsp; · &nbsp; [联系我](#contact)
+[我的主页](#about) &nbsp; · &nbsp; [我的项目](#projects) &nbsp; · &nbsp; [联系我](#contact)
 
 <br>
 
@@ -12,9 +12,9 @@
 
 ## 👨‍💻 关于我
 
-- 🔭 正在做：你的项目或研究方向
-- 🌱 正在学习：你最近学习的技术
-- 🛠️ 常用技术：你实际使用的语言和工具
+- 🌱 西南大学(SWU) -> 2020 - 2024
+- 🔭 武汉理工大学(WHUT) -> 2025 - 2028
+- 🛠️ 实习经历: @IFLYTEK -> ?
 
 <a id="projects"></a>
 
@@ -42,9 +42,8 @@
 
 <p>
   <a href="https://github.com/OrangeChengcc"><img src="https://img.shields.io/badge/GitHub-OrangeChengcc-181717?logo=github&logoColor=white&labelColor=111827" alt="OrangeChengcc on GitHub" /></a>
+  &nbsp;
+  <a href="https://space.bilibili.com/628891573"><img src="https://img.shields.io/badge/Bilibili-我的主页-00a1d6?logo=bilibili&logoColor=white&labelColor=111827" alt="B 站主页" /></a>
+  &nbsp;
+  <a href="https://www.xiaohongshu.com/user/profile/5f48f38a000000000101e953"><img src="https://img.shields.io/badge/小红书-我的主页-ff2442?labelColor=111827" alt="小红书主页" /></a>
 </p>
-
-- 邮箱：待补充
-- 个人网站：待补充
-
-<!-- 有了真实邮箱和网站后，可以替换上面的“待补充”，或按 GitHub 徽章的样式添加链接徽章。 -->
