@@ -18,24 +18,26 @@
 
 <a id="projects"></a>
 
+<a id="projects"></a>
+
 ## 🚀 我的项目
 
-### 项目一名称
+### ✨ [GitDaily](https://github.com/OrangeChengcc/git-daily) · 每日开源精选
 
-用一两句话介绍这个项目，以及它能解决什么问题。
+每天，发现下一个值得 Star 的开源项目。
 
-<!-- 填好真实地址后，将下面的链接移出注释。
-[在线访问](https://你的项目域名) · [查看源码](https://github.com/你的用户名/项目仓库)
--->
+面向开发者与技术爱好者的开源项目发现站，从一个想法出发，找到让它成真的工具。
 
-### 项目二名称
+- 🗓️ **每日推荐**：每天发现 10 个项目，通过日历回看往期推荐。
+- 🔎 **自然语言搜索**：描述你的需求，结合关键词与语义查找相关项目。
+- 🔥 **趋势追踪**：浏览 GitHub Trending 日榜、周榜、月榜与全站 Top100。
+- ⭐ **收藏同步**：使用 GitHub 登录，站内收藏与 GitHub Star 联动。
 
-介绍项目的主要功能和特点。
+**技术栈：** Next.js · React · TypeScript · Go · PostgreSQL · pgvector · Redis
 
-<!-- 填好真实地址后，将下面的链接移出注释。
-[在线访问](https://你的项目域名) · [查看源码](https://github.com/你的用户名/项目仓库)
--->
+[📖 项目介绍](https://github.com/OrangeChengcc/git-daily) · [💬 反馈建议](https://github.com/OrangeChengcc/git-daily/issues)
 
+> 项目源码暂不开源，仓库用于产品介绍与反馈收集。
 <a id="contact"></a>
 
 ## 📫 联系我
